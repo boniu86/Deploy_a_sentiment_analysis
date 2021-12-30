@@ -41,9 +41,9 @@ Get a sense of how to deploy a machine learning model using AWS Sagemaker, inclu
 
 After deploy my web app, I generated few reviews and test it, the following are the results. 
 
-The intersting one is the last one, I said 'the only thing I like about this movie is it has the actress I like', the web app thinks it is a NEGATIVE review and it does. Even tho I use plain and positive words like 'like', 'actress'. It feels like this web app understands my feeling, which feels funny in a way. Anyways, I only typed few reviews and there are room for improving, we could use LSTM RNN, etc.... 
+The intersting one is the last two, I said 'this movie is long and boring, but I like ...' and 'the only thing I like about this movie is it has the actress I like', the web app thinks both are NEGATIVE review and they do. Even tho I use plain and positive words like 'like', 'actress'. It feels like this web app understands my feeling, which feels funny in a way. Anyways, I only typed few reviews and there are room for improving, we could use LSTM RNN, etc.... 
 
-![screenshot](asset/SShot1.png)
+![screenshot](asset/SShot_1.png)
 ![screenshot](asset/SShot2.png)
 ![screenshot](asset/SShot3.png)
 ![screenshot](asset/SShot4.png)
@@ -53,5 +53,5 @@ The intersting one is the last one, I said 'the only thing I like about this mov
 
 Data: [IMDb data](http://ai.stanford.edu/~amaas/data/sentiment/)
 
-Authors: [To the Notebbok](https://github.com/boniu86/Recommendations_with_IBM/blob/main/Recommendations_with_IBM.ipynb)
+Authors: [To the Notebbok](https://github.com/boniu86/Deploy_a_sentiment_analysis/blob/main/Deploy_a_sentiment_analysis.ipynb)
 
