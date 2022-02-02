@@ -53,5 +53,5 @@ The intersting one is the last two, I said 'this movie is long and boring, but I
 
 Data: [IMDb data](http://ai.stanford.edu/~amaas/data/sentiment/)
 
-Authors: [To the Notebbok](https://github.com/boniu86/Deploy_a_sentiment_analysis/blob/main/Deploy_a_sentiment_analysis.ipynb)
+Authors: [To the Notebook](https://github.com/boniu86/Deploy_a_sentiment_analysis/blob/main/Deploy_a_sentiment_analysis.ipynb)
 
