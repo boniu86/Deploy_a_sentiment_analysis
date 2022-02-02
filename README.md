@@ -1,4 +1,4 @@
-# Udacity-Deploy-a-sentiment-analysis
+# Deploy-a-sentiment-analysis
 Udacity deep learning nanodegree project 5
 
 ### Table of contents
