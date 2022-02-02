@@ -18,7 +18,7 @@ Amazon Web Service to train, evaluate and deploy the web app.
 
 ## Project Inspiration<a name="Inspiration"></a>
 
-Get a sense of how to deploy a machine learning model using AWS Sagemaker, including upload train, validation and test data to S3; develope and train, validate and test RNN, the do the following as this picture indicate to deploy my web app that can judge a moview review is positive or negative. 
+Get a sense of how to deploy a machine learning model using AWS Sagemaker, including upload train, validation and test data to S3; develope and train, validate and test RNN, then do the following as this picture indicate to deploy my web app that can judge a movie review is positive or negative. 
 
 ![screenshot](asset/SShot5.png)
 
